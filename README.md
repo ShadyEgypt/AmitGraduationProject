@@ -21,8 +21,10 @@ The classes used in this project are:
  https://www.youtube.com/watch?v=V_MV5EsdKRc&t=775s
  
  I have created modest videos to explain the project
+ 
  In addition, I created web app to include all the videos, 
  and to have a tab where you can upload an image to be classified
+ 
  Here's the link of the app
  
  https://WVIC4LAWWHMHCYGI.anvil.app/CMXWD6L6NNR4G67UVPPOLLOV
