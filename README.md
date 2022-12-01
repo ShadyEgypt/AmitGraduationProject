@@ -28,3 +28,7 @@ The classes used in this project are:
  Here's the link of the app
  
  https://WVIC4LAWWHMHCYGI.anvil.app/CMXWD6L6NNR4G67UVPPOLLOV
+ 
+ The web app requires the jupyter notebook to be active, otherwise you will get an error
+ 
+ so I uploaded a photo in this repo to show you the result I got on my tablet
